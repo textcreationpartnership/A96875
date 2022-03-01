@@ -1,0 +1,1631 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A guide for strangers in the kingdome of Ireland. Wherein the high-wayes and roads from all the sea-townes, market parishes, great or small is truely set down, throughout every province, and the whole kingdom, / by a surveyor thereof John Woodhouse. ; As also a map of Ireland and the townes thereof alphabetically printed ... ; As also, a true relation of the bloody massacres, tortures, cruelties, and abominable outrages committed upon the Protestants proved upon oath, and eye-witnesses.</title>
+            <author>Woodhouse, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96875</idno>
+            <idno type="STC">Wing W3464</idno>
+            <idno type="STC">ESTC R186850</idno>
+            <idno type="EEBO-CITATION">47683576</idno>
+            <idno type="OCLC">ocm 47683576</idno>
+            <idno type="VID">173031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A guide for strangers in the kingdome of Ireland. Wherein the high-wayes and roads from all the sea-townes, market parishes, great or small is truely set down, throughout every province, and the whole kingdom, / by a surveyor thereof John Woodhouse. ; As also a map of Ireland and the townes thereof alphabetically printed ... ; As also, a true relation of the bloody massacres, tortures, cruelties, and abominable outrages committed upon the Protestants proved upon oath, and eye-witnesses.</title>
+                  <author>Woodhouse, John.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwell ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: contains only the list of highways.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Guidebooks --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173031:1" rendition="simple:additions"/>
+            <p>A Guide for Strangers in the <hi>Kingdome of IRELAND.</hi>
+            </p>
+            <p>
+               <hi>WHEREIN</hi> The High-Wayes and Roads from all the Sea-Townes, Market Pariſhes, great or ſmall is truely ſet down, throughout every Province, and the whole King<g ref="char:EOLhyphen"/>dom, by a Surveyor therof <hi>John Woodhouſe.</hi>
+            </p>
+            <p>As alſo a Map of <hi>Ireland,</hi> and the Townes thereof Alphabetically Printed, that by the Longitude and Latitude, you may ſet your finger on the Towne you deſire to finde.</p>
+            <p>The uſe thereof, as alſo of the Mappe, to finde all diſtances from any places, are in this BOOK.</p>
+            <p>As alſo, a True Relation of the Bloody Maſſacres, tortures, cruelties, and abomina<g ref="char:EOLhyphen"/>ble outrages committed upon the Pro<g ref="char:EOLhyphen"/>teſtants proved upon Oath, and eye-Witneſſes.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Rothwell,</hi> at the ſigne of the <hi>Sun &amp; Fountain,</hi> in <hi>Pauls</hi> Church-yard 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173031:2"/>
+            <pb facs="tcp:173031:2"/>
+            <head>THE High-wayes of <hi>Ireland.</hi>
+            </head>
+            <p>
+               <table>
+                  <head>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> The way from <hi>Dublin</hi> to <hi>Cork</hi> along the Sea ſide, and ſo to <hi>Baltamore.</hi>
+                  </head>
+                  <row>
+                     <cell rows="18">
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Dublin to Brey.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Brey to Newcaſtle</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Ne<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>caſtle to Wicklow.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Wicklow to Arc<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>low.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Arc<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>low to Glaſcarig.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Glaſc<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rig to Wexford.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Wexford to Roſſe.</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Roſſe to Waterford.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Waterford to Kilmactomas.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Kilmactomas to Dongarvan</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Dongarvan to Youghall.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Youghall to Cor Abby.</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Cor-Abby to Cork.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Cork to Bandonbridge.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Bandonbridge to Tymoleague.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Tymoleague to Roſſe-carberry.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Roſſe-carberry to Abby-ſtrewry.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Abby-ſtrewry to Baltamore.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">178 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:173031:3"/>
+               <table>
+                  <head>2. From <hi>Baltamore</hi> to <hi>Traley.</hi>
+                  </head>
+                  <row>
+                     <cell rows="6">From</cell>
+                     <cell>Baltamore to Abby-ſtrewry.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Abby-ſtrewry to Aſhdowne.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Aſhdowne to Balliboggan.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Balliboggan to Glaneroty.</cell>
+                     <cell>1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Glaneroty to Caſtle-lough.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Caſtle-lough to Traley.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">tot.</cell>
+                     <cell role="total">47 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>3. From <hi>Dublin</hi> to <hi>Gowran.</hi>
+                  </head>
+                  <row>
+                     <cell rows="6">From</cell>
+                     <cell>Dublin to Naſſe.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Naſſe to Kilcullan.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Kilcullan to Caſtledermot.</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Caſtledermot to Caterlough.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Caterlough to Laughlin.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Laughlin to Gowran.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">tot.</cell>
+                     <cell role="total">42 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Gowran</hi> to <hi>Waterford,</hi> numb. 3.</head>
+                  <row>
+                     <cell>From Gowran to Thomaſtowne.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>From Thomaſtowne to Waterford.</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Tot. from <hi>Dublin</hi>
+                     </cell>
+                     <cell role="total"> 62 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Gowran</hi> to <hi>Yowghall.</hi> from num. 3.</head>
+                  <row>
+                     <cell rows="4">From</cell>
+                     <cell>Gowran to Knoctougher.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Knoctougher to Carrig.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Carrig to Dongarvan.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Dongarvan to Yowghall.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">38 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:173031:3"/>
+               <table>
+                  <head>From <hi>Gowran</hi> to <hi>Cork.</hi> ſee numb. 3.</head>
+                  <row>
+                     <cell rows="8">From</cell>
+                     <cell>Gowran to Bennetsbridge.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Bennetsbridge to Kels.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Kels to <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gh.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Coallagh to Kilcaſhell.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Kilcaſhell to Cloamell.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Cloamell to Liſmore.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Liſmore to Caſtlelchan.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Caſtlelehan to Cork.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">54 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Cork</hi> to <hi>Baltamore</hi> 38. as in numb. 1.</head>
+                  <row>
+                     <cell>There is a nearer way to goe to Cork from Gowran. To goe from Cloemell through the mountain, by Mountain Caſtle, it is a good way in Summer.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Gowran to Caſhell,</hi> and ſo to <hi>Dingl-Icouſh,</hi> numb. 3.</head>
+                  <row>
+                     <cell rows="13">From</cell>
+                     <cell>Gowran to Bennetsbridge.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Bennetsbridge to Callan.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Callan to Killanawle.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Killanawle to Caſhell.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Caſhell to Typperary.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Typperary to Emelie.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Emelie to Kilmallock.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Kilmallock to Balingarry.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <pb facs="tcp:173031:4"/>
+                  <row>
+                     <cell>Balingarry to Newcaſtle.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Newcaſtle to Bruſtinagh</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Bruſtinagh to Ilandkerry.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Ilandkerry to Caſtlemaigne.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>From Caſtlemaigne to Dingle-Ico<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gh.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">134 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>4 From <hi>Gowran</hi> to <hi>Limerick</hi> as in numb. 3.</head>
+                  <row>
+                     <cell rows="11">From</cell>
+                     <cell>Gowran to Caſhell.</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Caſhell to Sallahood.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Sallahood to Ballinitry.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Ballinitty to Carigkenliſh.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Carigkenliſh to Limerick.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Limerick to Adare.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Adare to R<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>keile.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Rakeile to Ardaghie,</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Ardaghie to Moniſterfeale</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Moniſterfeale to Traley.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Traley to Dingle-Icouſh.</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">146 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Another way from <hi>Dublin</hi> to <hi>Limerick.</hi>
+                  </head>
+                  <row>
+                     <cell rows="9">From</cell>
+                     <cell>Dublin to Maynouth.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Maynouth to Cloncurry.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Cloncurry to Carberry.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Carberry to Philipſtowne.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Philipſtowne to Ballibuy.</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Ballibuy to Parſonſtowne.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <pb facs="tcp:173031:4"/>
+                  <row>
+                     <cell>Parſonſtowne to Balligarry</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Balligarry to Euaghmore.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Euaghmore to Limerick.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">82 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Limerick</hi> to <hi>Kilruſh.</hi>
+                  </head>
+                  <row>
+                     <cell>From Limerick to Ennis.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>From Ennis to Kilruſh.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="total">totall from <hi>Dublin</hi>
+                     </cell>
+                     <cell role="total">100 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>5. From <hi>Waterferd</hi> to <hi>Limerick.</hi>
+                  </head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Waterford to Carrig.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Carrig to Cloemell.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Cloemell to Goalinbridge.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Goalin to Sallahood.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Sallahood to Limerick.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">52 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>6. From <hi>Kinſale</hi> to <hi>Cork</hi> and <hi>Limerick.</hi>
+                  </head>
+                  <row>
+                     <cell rows="4">From</cell>
+                     <cell>Kinſalke to Cork.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Cork to Mallow.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Mallow to Killmallock.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Kilmallock to Limerick</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">46 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>7. From <hi>Cork</hi> to <hi>Castlelough</hi> &amp; to <hi>Traley.</hi>
+                  </head>
+                  <row>
+                     <cell rows="7">From</cell>
+                     <cell>Cork to Aglus.</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Aglus to Carigdroit.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Carigdroit to Macrowne</cell>
+                     <cell>4</cell>
+                  </row>
+                  <pb facs="tcp:173031:5"/>
+                  <row>
+                     <cell>Macrown to Ballivorny</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Ballivorny to Killaw</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Killaw to Caſtlelough.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Caſtlelough to Trayley.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">48 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Limerick</hi> to <hi>Gallway.</hi>
+                  </head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Limerick to Quin.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>From Quin to Barnacoyle.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>From Barnacoyle to Gortinhorie.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>From Gortinhorie to Kilcolgan.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>From Kilcolgan to Gallway.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">36 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>8. From <hi>Dublin</hi> to the <hi>Silver-mines,</hi> and ſo to <hi>Limerick.</hi>
+                  </head>
+                  <row>
+                     <cell rows="9">From</cell>
+                     <cell>Dublin to Longſtone.</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Longſtone to Kilcullanbridge.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Kilcullanbridge to Athy.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Athy to Aghaboo.</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Aghaboo to Roſcrea.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Roſcrea to Toom Evagh.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Toom Evagh to the Silvermines.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Silvermines to Belrahen.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Belrahen to Limerick.</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">75 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:173031:5"/>
+            <p>
+               <table>
+                  <head>9. From the <hi>Silvermines</hi> to <hi>Tomgreny.</hi>
+                  </head>
+                  <row>
+                     <cell>From the Silvermines to Killalow.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>From Killalow to Tomgreny.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Tot. from <hi>Dublin</hi>
+                     </cell>
+                     <cell role="total">87 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>10. From the <hi>Silvermines</hi> to <hi>Corke</hi> and <hi>Kinſale.</hi>
+                  </head>
+                  <row>
+                     <cell rows="6">From</cell>
+                     <cell>Silvermine to Abby-Owny.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Abby-Owny to Loughger.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Loughger to Kilmallock.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Kilmallock to Mallow.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Mallow to Cork.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Cork to Kinſale.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">52 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>11. From the</hi> Silvermines <hi>to</hi> Athloane, <hi>and</hi> divers parts of <g ref="char:V">Ʋ</g>lſter and Connaugh.</head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Silvermines to Enagh.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Enagh to Balingatry.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Balingarry to Bir.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Bir to Garry caſtle.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Garry caſtle to Athloane</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">36 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>12.</hi> Divers wayes from Dublin to Athloane, and ſo to divers other places in Connaugh.</head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Dublin to Trime.</cell>
+                     <cell>20</cell>
+                  </row>
+                  <pb facs="tcp:173031:6"/>
+                  <row>
+                     <cell>Trime to Abuy</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Abuy to Mullingare.</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Mu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lingare to Balimore</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Balimore to Athloane.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">60 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Another way from <hi>Dublin</hi> to <hi>Athloane.</hi>
+                  </head>
+                  <row>
+                     <cell rows="9">From</cell>
+                     <cell>Dublin to Kilcock.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Kilcock to Cloncurry.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Cloncurry to Clonard.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Clonard to Clonagad.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Clonagad to Beggersbridge</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Beggersbridge to Tirrilpace</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Tyrrilpace to Dovghill.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Dovghill to Moate.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Moate to Athloane.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">41 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Another way from <hi>Dublin</hi> to <hi>Athloane.</hi>
+                  </head>
+                  <row>
+                     <cell rows="6">From</cell>
+                     <cell>Dublin to Mainowth.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Mainowth to Cloncurry.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Cloncurry to Carberry,</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Carberry to Croghan.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Croghan to Kilbeggan,</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Kilbeggan to Athloane.</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">totall</cell>
+                     <cell role="total">49 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Athloane</hi> to <hi>Gallway,</hi> as in numb.
+12.</head>
+                  <row>
+                     <cell rows="4">From</cell>
+                     <cell>Athloane to Balliſloe.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <pb facs="tcp:173031:6"/>
+                  <row>
+                     <cell>Balliſloe to Kilconnell.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Kilconnell to Athenry.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Athenry to Gallway.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Total from <hi>Dublin</hi>
+                     </cell>
+                     <cell role="total">96 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Athloane</hi> to <hi>Sligo</hi> and <hi>Balliſhannon.</hi>
+                  </head>
+                  <row>
+                     <cell rows="7">From</cell>
+                     <cell>Athloane to Roſcommon.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Roſcommon to Tulsk.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Tulsk to Abby-Boyle.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Abby Boyle to Ballimote.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Ballimote to Sligo.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Sligo to Bondrowes.</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Bondrowes to Balliſhannon.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Totall</cell>
+                     <cell role="total">67 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Athloane</hi> to <hi>Clougher</hi> in <hi>
+                        <g ref="char:V">Ʋ</g>lſter,</hi> and <hi>London-Derry.</hi> as in numb. 12.</head>
+                  <row>
+                     <cell rows="10">From</cell>
+                     <cell>Athloane to Kilkennyweſt.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Kilkennyweſt to Shrowle.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Shrowle to Granard.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Granard to Cavan.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Cavan to Clowneys.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Clowneys to Clougher.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Clougher to Omey.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Omey to Newtowne.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Newtowne to Lifford.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Lifford to London-Derry.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Totall</cell>
+                     <cell role="total">94 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:173031:7"/>
+            <p>
+               <table>
+                  <head>13. From <hi>Dublin</hi> to <hi>Cavan.</hi>
+                  </head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Dublin to Dunſhanghlin.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Dunſhanglin to Navan.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Navan to Kels.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Kels to Virginia.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Virginia to Cavan.</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">47 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>From Cavan to Belterbet.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>From Belterbet to Eniskelling by water.</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">27 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Cavan</hi> to <hi>Eniskelling</hi> and ſo to <hi>Balliſhannon,</hi> by Land.</head>
+                  <row>
+                     <cell rows="7">From</cell>
+                     <cell>Cavan to Balibrinſley.</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Balibrinſley to Belfore.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Belfore to Eniskelling.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Eniskelling to Liſnarge.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Liſnarge to Culliver.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Culliver to Haſſets towne.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Haſſets town to Balliſhannon.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot. from <hi>Dublin</hi>
+                     </cell>
+                     <cell role="total">144 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Cavan</hi> to <hi>London Derry.</hi> as in numb. 13.</head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Cavan to Belfore.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <pb facs="tcp:173031:7"/>
+                  <row>
+                     <cell>Belfore to Newportowne.</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Newportowne to Kerrall.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Kerrall to Strebane.</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Strebane to London-Derry.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">54 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>14. From <hi>Dublin</hi> to <hi>London-Derry</hi> by <hi>Dondalk.</hi>
+                  </head>
+                  <row>
+                     <cell rows="13">From</cell>
+                     <cell>Dublin to Swords.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Swords to Balrudderie.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Balruddery to Drogedah.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Drogedah to Donleare.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Donleare to Dondalk.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Dondalk to Fewes.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Fewes to Armagh.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Armagh to Dongannon</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Dongannon to the Croſſe.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>From Croſſe to Omey.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Omey to Newtown.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Newtown to Strabane.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Strabane to Derry.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">101 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>From</hi> Dublin <hi>to</hi> Castle Dooe.</head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Dublin to Omey.</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell>Omey to Caſtle Finne.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Caſtle Finne to Litterkeny</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Litterkeny to Kilmackavan</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Kilmackavan to Dooe.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">115 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:173031:8"/>
+               <table>
+                  <head>15. From <hi>Dublin</hi> to <hi>Newry</hi> &amp; <hi>Knockfergus</hi>
+                  </head>
+                  <row>
+                     <cell rows="8">From</cell>
+                     <cell>Dublin to Swords.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Swords to Droghedah.</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>From Droghedah to Dondalk.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Dondalke to Newry.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Newry to Dromore.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Dromore to Liſnegarvy.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Liſnegarvy to Belfaſt.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Belfaſt to Knockfergus.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">84 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Another way from <hi>Dublin</hi> to <hi>Knockfergus.</hi>
+                  </head>
+                  <row>
+                     <cell rows="11">From</cell>
+                     <cell>Dublin to Drogheda.</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Drogheda to Dondalk.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Dondalk to Newry.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Newry to Dondrum.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Dondrum to Downpatrik</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Downpatrik to Strongford</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Strongford over the Ferry</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Ferry to Gray Abby.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Gray Abby to Newtown.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Newtown to Belfaſt.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Belfaſt to Knockfergus.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">98 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Knockfergus</hi> to <hi>Colraine.</hi> as numb.
+15.</head>
+                  <row>
+                     <cell rows="4">From</cell>
+                     <cell>Knockfergus to Glanarme.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <pb facs="tcp:173031:8"/>
+                  <row>
+                     <cell>Glanarme to Downany.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Downany to Doulaw.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Doulaw to Colraine.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">35 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>From <hi>Newry</hi> to <hi>Colraine.</hi> num. 15.</head>
+                  <row>
+                     <cell rows="5">From</cell>
+                     <cell>Newry to Iniſlaughlin.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>niſlaughlin to Antrim.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Antrim to Kells.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Kel<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s to Ballimony.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Ballimony to Colraine.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">Tot.</cell>
+                     <cell role="total">52 miles.</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="part">
+               <head>Divers High-Wayes croſſe the Kingdome.</head>
+               <p>
+                  <table>
+                     <head>
+                        <hi>From</hi> London-Derry to Balliſhannon.</head>
+                     <row>
+                        <cell rows="4">From</cell>
+                        <cell>London-Derry to Rapho.</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Rapho to Lough Eske.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Lough Eske to Donagall.</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Donagall to Balliſhannon.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">Tot.</cell>
+                        <cell role="total">36 miles.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>From <hi>Covan</hi> to <hi>Knockfergus,</hi> num. 13.</head>
+                     <row>
+                        <cell rows="9">From</cell>
+                        <cell>Covan to Cluneyes.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Cluneys to Monoghon.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Monoghon to Ardmadgh.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Ardmadgh to P<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rtadown.</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>Portadown to Lurgan.</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Lurgan to Maherlin.</cell>
+                        <cell>2</cell>
+                     </row>
+                     <pb facs="tcp:173031:9"/>
+                     <row>
+                        <cell>Maherlin to Liſnegarvy.</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>Liſnegarvy to Belfaſt.</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Belfaſt to Knockfergus.</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">Tot.</cell>
+                        <cell role="total">72 miles.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>From <hi>Gallway</hi> to <hi>Baliſhannon,</hi> num. 12. and <hi>Calebegs.</hi>
+                     </head>
+                     <row>
+                        <cell rows="10">From</cell>
+                        <cell>Gallway to Clare.</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Clare to Ballimoy.</cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>Ballimoy to Tulsk.</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Tulsk to Abby-Boyle.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Abby-Boyle to Ballimot.</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Ballimot to Sligo.</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Sligo to Bondrowes.</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>Bondrowes to Baliſhannon</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Baliſhannon to Donagall.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Donagall to Callebegs.</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">Tot.</cell>
+                        <cell role="total">100 miles</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173031:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
